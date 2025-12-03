@@ -1,0 +1,27 @@
+/* cascading style sheet */
+h1{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+    border: 2px solid orange;
+    padding: 5px 10px 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+    color: rgb(74, 74, 205);
+}
+
+a:hover{
+    color: white;
+    background-color: gray;
+}
+
+p{
+    font-family: roboto;
+    color: skyblue;
+}
+
